@@ -3,3 +3,7 @@
 - Estado de registro: En construcción.
 
 - Para ejecutar el sistema debes poner
+
+'''spam install react'''
+
+sistema de registro 2
